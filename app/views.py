@@ -1,5 +1,5 @@
 from flask import render_template
-from Watchlist import app
+from app import app
 
 
 # Views
